@@ -19,3 +19,6 @@ docker-compose up
 
 ## 💡 Why This Project?
 This project shows I understand the basics of cloud-like deployment, containerization, and CI/CD, even without paid services.
+
+## 📸 Screenshot
+![Site Screenshot](test-site-proof.png)
